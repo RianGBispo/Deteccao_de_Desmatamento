@@ -4,7 +4,7 @@
       <img width="100%" src="https://github.com/RianGBispo/Deteccao_de_Desmatamento/blob/main/data/_Black%20and%20Green%20Futuristic%20Technology%20LinkedIn%20Banner.png?raw=true"></a>
         </p>
 </div>
-        <h1>Tutorial de Sensoriamento Remoto com Google Earth Engine e GDAL</h1>
+        <h1>Detecção de Desmatamento com Google Earth Engine e GDAL</h1>
         <p>Este repositório contém um tutorial passo a passo para trabalhar com imagens de satélite utilizando o Google Earth Engine e a biblioteca Geospatial Data Abstraction Library (GDAL). O tutorial abrange desde a introdução ao Google Earth Engine até a extração e processamento de dados geoespaciais, com foco na classificação de vegetação usando o Índice de Diferença Normalizada da Vegetação (NDVI).</p>
         <h2>Etapas do Tutorial</h2>
         <ol>
