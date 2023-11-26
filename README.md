@@ -3,6 +3,14 @@
     <a href="https://www.linkedin.com/in/rian-bispo/" target="_blank">
       <img width="100%" src="https://github.com/RianGBispo/Deteccao_de_Desmatamento/blob/main/data/deteccao_desmatamento_capa.png?raw=true"></a>
         </p>
+  <div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-bispo/)](https://www.linkedin.com/in/rian-bispo/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rian_bsp)
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vYfmUNVNHlRQFfekOCHF3O_WVhf6PFwd?usp=sharing)
+
+  
+</div>
 </div>
         <h1>Detecção de Desmatamento com Google Earth Engine e GDAL</h1>
         <p>Este repositório contém um tutorial passo a passo para trabalhar com imagens de satélite utilizando o Google Earth Engine e a biblioteca Geospatial Data Abstraction Library (GDAL). O tutorial abrange desde a introdução ao Google Earth Engine até a extração e processamento de dados geoespaciais, com foco na classificação de vegetação usando o Índice de Diferença Normalizada da Vegetação (NDVI).</p>
@@ -53,9 +61,6 @@
             <li>Garanta que todas as bibliotecas necessárias estejam instaladas em seu ambiente.</li>
             <li>Adapte o tutorial conforme necessário para atender aos requisitos específicos do seu projeto.</li>
         </ol>
-        <h2>Contato</h2>
-        <p>Nome: Rian Bispo<br>Email: seuemail@example.com</p>
-        <p>Nota: Este tutorial foi criado por Rian Bispo, um cientista de dados e engenheiro de visão computacional. Sinta-se à vontade para entrar em contato para esclarecimento de dúvidas ou colaborações.</p>
         <h2>Fontes e Referências</h2>
         <ul>
             <li><a href="https://earthengine.google.com/" target="_blank">Google Earth Engine</a></li>
