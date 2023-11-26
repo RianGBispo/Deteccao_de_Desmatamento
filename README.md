@@ -44,7 +44,7 @@
         <ul>
             <li>Conhecimento básico em Python</li>
             <li>Conta no Google para autenticação no Google Earth Engine</li>
-            <li>Ambiente com as bibliotecas necessárias: Python, PyTorch, OpenCV, NumPy, Pandas, Scikit-Learn, Keras, TensorFlow, Power BI</li>
+            <li>Ambiente com as bibliotecas necessárias ou utilize este projeto no Colab que fornece um ambiente pré preparado.</li>
         </ul>
         <h2>Como Reproduzir este Projeto</h2>
         <ol>
@@ -53,8 +53,6 @@
             <li>Garanta que todas as bibliotecas necessárias estejam instaladas em seu ambiente.</li>
             <li>Adapte o tutorial conforme necessário para atender aos requisitos específicos do seu projeto.</li>
         </ol>
-        <h2>Licença</h2>
-        <p>Este projeto é distribuído sob a licença MIT - consulte o arquivo LICENSE para obter detalhes.</p>
         <h2>Contato</h2>
         <p>Nome: Rian Bispo<br>Email: seuemail@example.com</p>
         <p>Nota: Este tutorial foi criado por Rian Bispo, um cientista de dados e engenheiro de visão computacional. Sinta-se à vontade para entrar em contato para esclarecimento de dúvidas ou colaborações.</p>
